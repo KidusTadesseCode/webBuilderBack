@@ -8,7 +8,7 @@ sqlStatements/*
 
 min-agbah.txt
 .env
-aws_sdk/
+
 aws.sh
 git.sh
 sqlStatements/
