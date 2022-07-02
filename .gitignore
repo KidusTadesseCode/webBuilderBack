@@ -1,0 +1,16 @@
+node_modules/
+request.rest
+notes.txt
+JWT_notes.txt
+
+sqlStatements/*
+*.txt
+
+min-agbah.txt
+.env
+aws_sdk/
+aws.sh
+git.sh
+sqlStatements/
+
+notes.md
